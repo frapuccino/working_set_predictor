@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552929873 source:/Users/huangxing/Documents/code/memory_reassign/main.cpp
+	<iostream>
+	<fstream>
+	"memory_reassign.h"
+
+1552929285 source:/Users/huangxing/Documents/code/memory_reassign/src/memory_reassign.cpp
+	"memory_reassign.h"
+
+1552928916 /Users/huangxing/Documents/code/memory_reassign/include/memory_reassign.h
+	<unordered_map>
+	<iostream>
+
